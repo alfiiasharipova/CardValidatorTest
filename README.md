@@ -7,7 +7,7 @@
 На тестирование затрачено: 2 часа
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/alfiiasharipova/CardValidatorTest/issues/1
+* [Для валидных номеров карт, состоящих не из 16 символов, программа возвращает FAIL](https://github.com/alfiiasharipova/CardValidatorTest/issues/1)
 
 ## Описание процесса тестирования
 
