@@ -14,7 +14,7 @@
 В процессе тестирования использовались следующие артефакты:
 * Руководство по установке IntelliJ IDEA
 
-В качестве тестовых данных использовались данные https://www.freeformatter.com/credit-card-number-generator-validator.html:
+В качестве тестовых данных использовались данные [freeformatter](https://www.freeformatter.com/credit-card-number-generator-validator.html):
 * 3536436247883831: OK
 * 4593976706040223: OK
 * 2221004453024847: OK
